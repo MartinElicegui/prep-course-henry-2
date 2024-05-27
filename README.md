@@ -1,1 +1,3 @@
-# prep-course-henry-2
+martin elicegui 
+
+este proyecto es una prueba de como crear un repositorio y clonarlo de forma local
